@@ -1,6 +1,5 @@
 #TODO:
 
-# Simple Task Manager
 
 ## installation
 ________________
